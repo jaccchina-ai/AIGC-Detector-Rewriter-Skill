@@ -12,7 +12,21 @@ It is designed for users who need careful, detector-informed academic revision, 
 <p align="center">
   <img src="images/Image (1).png" alt="AIGC rewrite result: AI feature value reduced from 60% to 18%" width="900">
 </p>
----
+![AIGC Detector & Rewriter overview showing closed-loop thesis AI-risk diagnosis, paragraph scoring, minimal-edit rewriting, quality gates, and external re-test workflow.展示论文 AI 风险诊断、段落评分、最小化改写、质量门检查和外部复测闭环流程](images/aigc-detector-rewriter-overview.png)
+
+
+
+![Workflow diagram showing how the AIGC Detector & Rewriter skill processes a thesis from upload and parsing to paragraph risk scoring, high-risk chapter selection, minimal-edit rewriting, quality gate, and external re-test](assets/how-the-skill-works.png)
+![AIGC Detector & Rewriter 工作流程图，展示从上传论文、解析章节、段落风险评分、选择高风险章节、最小化改写到质量检查和外部复测的完整流程](assets/how-the-skill-works.png)
+
+![Core capabilities of the AIGC Detector & Rewriter skill, including AI-risk detection, minimal-edit rewriting, citation and data protection, version ledger governance, and built-in academic integrity safeguards](assets/core-capabilities.png)
+![AIGC Detector & Rewriter 核心能力图，展示 AI 风险检测、最小化改写、引用和数据保护、版本台账管理以及学术完整性保障](assets/core-capabilities.png)
+
+
+![Before-and-after infographic showing AI feature value reduced from 60% to 18% after AIGC Detector & Rewriter processing, with meaning, citations, data, and academic structure preserved,降 AI 重写前后对比图，展示论文 AI 特征值经过 AIGC Detector & Rewriter 处理后从 60% 降至 18%，同时保留原意、引用、数据和论文结构 ](images/aigc-rewrite-result-60-to-18.png)
+
+
+
 
 ## Keywords
 
