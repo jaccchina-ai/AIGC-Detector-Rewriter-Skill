@@ -397,6 +397,7 @@ Do not rewrite the whole document.
 Only identify issues and propose precise fixes.
 ```
 
+---
 ![Workflow diagram showing how the AIGC Detector & Rewriter skill processes a thesis from upload and parsing to paragraph risk scoring, high-risk chapter selection, minimal-edit rewriting, quality gate, and external re-test.展示从上传论文、解析章节、段落风险评分、选择高风险章节、最小化改写到质量检查和外部复测的完整流程](assets/how-the-skill-works.png)
 
 ## Recommended Workflow
